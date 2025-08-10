@@ -83,7 +83,7 @@
            },3000);
         }
 
-        transaction.onerrorcomplete = function(){
+        transaction.onerror = function(){
             imprimirAlerta('Hubo un error', 'error');
         }
 
