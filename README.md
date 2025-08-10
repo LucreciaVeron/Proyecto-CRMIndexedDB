@@ -9,7 +9,7 @@ Este proyecto fue creado como parte del curso de Udemy:
 ## 🌐 Demo en línea
 
 Podés probar el proyecto aquí:  
-👉 [Ver proyecto en vivo]()
+👉 [Ver proyecto en vivo](https://classy-fudge-b38496.netlify.app/)
 
 ## 🚀 Funcionalidades
 
